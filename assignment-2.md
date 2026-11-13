@@ -1,4 +1,4 @@
-# Assigment 3
+# Assigment 2
 ---
 
 ## Part 1 — Operators for the calculator
